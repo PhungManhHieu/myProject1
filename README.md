@@ -9,4 +9,4 @@ php artisan serve
 
 - click follow the link in terminal
 => go to admin http://127.0.0.1:8000/admin
-=> login account: aadmin@example.com, pass: passsword
+=> login account: aadmin@gmail.com, pass: passsword
