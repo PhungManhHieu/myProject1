@@ -1,3 +1,4 @@
+```
 Step to setup project
 #Run command
 composer install
@@ -10,3 +11,4 @@ php artisan serve
 - click follow the link in terminal
 => go to admin http://127.0.0.1:8000/admin
 => login account: aadmin@gmail.com, pass: passsword
+```
